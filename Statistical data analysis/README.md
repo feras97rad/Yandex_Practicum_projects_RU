@@ -6,7 +6,7 @@ You have at your disposal the data of 500 users "...": who they are, from where,
 You will have to make a preliminary analysis of tariffs on a small sample of customers. It is necessary to analyze the behavior of customers and make a conclusion — which tariff is better.\
 \
 **Tools Used**\
-Python, Pandas\
+Python, Pandas, SciPy\
 \
 \
 \
@@ -18,4 +18,4 @@ Python, Pandas\
 Вам предстоит сделать предварительный анализ тарифов на небольшой выборке клиентов. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.\
 \
 **Используемые инструменты**\
-Python, Pandas
+Python, Pandas, SciPy
